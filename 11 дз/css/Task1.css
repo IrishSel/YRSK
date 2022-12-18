@@ -1,0 +1,8 @@
+.places .border {
+  border-bottom: 2px solid #cccccc;
+}
+
+.places 
+li {
+  font-weight: bold;
+}

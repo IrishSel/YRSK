@@ -1,0 +1,213 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.body-page{
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+header{
+    display: table-row;
+    background-color:  #ffa600;
+    text-align: center;
+    float: left;
+    height: 400px;
+    width: 100%;
+}
+footer{
+    display: table-row;
+    background-color: rgba(7, 7, 7, 0.904);
+    height:400px;
+    width: 100%;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.table{
+    text-align: center;
+}
+main{
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+.box{
+    display: table-cell;
+    text-align: center;
+
+}
+.left{
+    height: 355px;
+    width: 900px;
+    margin: 20px;
+    float: left;
+}
+.middle{
+    margin-left: 600px;
+    margin-top: 20px;
+    float: left;
+    width:500px;
+    padding: 5px;
+}
+.right{
+    float: right;
+    position: absolute; top:200px ;left:910px ;
+}
+.xob{
+    color: black;
+}
+.button1{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top:250px; left: 350px;
+}
+.button2{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 250px; left: 630px;
+}
+.button3{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 250px; left: 910px;
+}
+.button4{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 630px; left: 820px;
+}
+.button5{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 690px; left: 820px;
+}
+.button6{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 750px; left: 820px;
+}
+.ha1{
+    position: absolute;top: 320px; left: 450px;
+}
+.ha2{
+    position: absolute;top: 320px; left: 710px;
+}
+.ha3{
+    position: absolute;top: 320px; left: 990px;
+}
+.ha4{
+    position: absolute;top: 660px; left: 1130px;
+}
+.ha5{
+    position: absolute;top: 720px; left: 1130px;
+}
+.ha6{
+    position: absolute;top: 780px; left: 1130px;
+}
+.bee{
+    background-color: #ffffff;
+    padding: 5px;
+    width: 300px;
+    height: 20px;
+}
+.sun{
+    width: 75px;
+    display:inline-block;
+    color: red;
+  }
+.poll {
+    padding: 1.5rem;
+    width: 101%;
+    margin: auto;
+    height: 3px;
+    color: red;
+}
+.answer {
+    padding: 0 10px 0 5px;
+}
+.mid1{
+    position: absolute;top: 450px;left:900px;
+}
+.mid2{
+    position: absolute;top: 490px;left:860px;
+}
+.mid3{
+    position: absolute;top: 530px;left:860px;
+}
+.mid4{
+    position: absolute;top: 450px;left:1010px;
+}
+.mid5{
+    position: absolute;top: 490px;left:1010px;
+}
+.mid6{
+    position: absolute;top: 530px;left:1010px;
+}
+.mid7{
+    font-size: 30px;
+    position: absolute;top: 435px;left:1120px;
+}
+.mid8{
+    font-size: 30px;
+    position: absolute;top: 475px;left:1120px;
+}
+.mid9{
+    font-size: 30px;
+    position: absolute;top: 515px;left:1120px;
+}
+.foot{
+    margin: 100px;
+}

@@ -1,0 +1,77 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1250px;
+    border: 2px solid #80c200;
+    background-color: #80c200 ;
+    margin: auto;
+}
+.fish{
+    display: flex;
+	border-radius: 10px;
+	border: 15px solid white;
+	background-color: white;
+	margin: 10px;
+    text-align: left;
+    flex-direction: column;
+    width: 200px;
+}
+.racoon1{
+    background-image: url("https://ae01.alicdn.com/kf/Hc283d1d792214da9b29e66de0f4cf449d/PHMAX-Pro.jpg_Q90.jpg_.webp");
+    width: 190px;
+    height: 180px;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.racoon2{
+    background-image: url("https://ae01.alicdn.com/kf/H187691a3e84c409ba5976868b33a05f0I/X-TIGER-MTB.jpg_Q90.jpg_.webp");
+    width: 290px;
+    height: 190px;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.racoon3{
+    background-image: url("https://ae01.alicdn.com/kf/HTB1HSezSIbpK1RjSZFyq6x_qFXak/300.jpg_Q90.jpg_.webp");
+    width: 190px;
+    height: 190px;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.racoon4{
+    background-image: url("https://ae01.alicdn.com/kf/H093dfc31e4df428ba0e970c72539d02bD/GHOTDA-2-1-2-4-2-7-30-m-3-6.jpg_Q90.jpg_.webp");
+    width: 190px;
+    height: 190px;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.racoon5{
+    background-image: url("https://ae01.alicdn.com/kf/HTB14RVkcROD3KVjSZFFq6An9pXai/TREHOOK-10-17-5-6.jpg_Q90.jpg_.webp");
+    width: 190px;
+    height: 190px;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.b {
+    font-weight: bolder;
+    font-size: 25px;
+    font-style: oblique;
+    margin-top: -15px;
+}
+.red{
+    background-color: rgba(255, 0, 0, 0.76);
+    height: 23px;
+    width: 70px;
+    text-align: center;
+    margin-top: -20px;
+    color: white;
+    border-radius:5px ;
+}
+.zac{
+    margin-top: -10px;
+}
