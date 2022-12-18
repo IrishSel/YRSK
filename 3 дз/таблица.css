@@ -1,0 +1,49 @@
+table {
+border : 2px solid black;
+border-collapse: collapse;
+}
+th {
+font-family: "Times New Roman", Georgia, Serif;
+padding: 15px;
+background: #FFFACD;
+color: #808000;
+border-right: 2px solid; 
+font-size: 0.9em;
+}
+th:first-child {
+font-family: "Times New Roman", Georgia, Serif;
+text-align: left;
+background: #FFFACD;
+color: #808000;
+}
+th:last-child {
+font-family: "Times New Roman", Georgia, Serif;
+border-right: none;
+background: #FFFACD;
+color: #808000;
+}
+td {
+font-family: "Times New Roman", Georgia, Serif;
+background: #FFFACD;
+color: #808000;
+vertical-align: middle;
+padding: 10px;
+font-size: 14px;
+text-align: center;
+border-top: 2px solid #56433D;
+border-bottom: 2px solid #56433D;
+border-right: 2px solid #56433D;
+}
+td:first-child {
+font-family: "Times New Roman", Georgia, Serif;
+background: #FFFACD;
+color: #808000;
+border-left: 2px solid #56433D;
+border-right: none;
+}
+td:nth-child(2){
+font-family: "Times New Roman", Georgia, Serif;
+background: #FFFACD;
+color: #808000;
+text-align: left;
+}

@@ -1,0 +1,172 @@
+.in-div{
+    border: 1px solid #ffffff;
+    height: 355px;
+    margin: 20px;
+    background-color: #ffffff;
+    float: left;
+    position: absolute;top: 500px;left:250px;
+}
+.in-div1{
+    border: 1px solid #ffa600;
+    height: 400px;
+    width: 85%;
+    background-color: #ffa600; 
+    float: left;
+}
+.in-div3{
+position: absolute;top: 1150px; left: 10px;
+}
+.in-div2{
+    border: 1px solid #ffffff;
+    height: 200px;
+    width: 550px;
+    margin: 20px;
+    background-color: #ffffff;
+    float: left;
+    position: absolute;top: 400px; right: 10px;
+}
+.bottom-div{
+    border: 1px solid #ffffff;
+    height: 355px;
+    width: 400px;
+    margin: 20px;
+    background-color: #ffffff;
+    float: right;
+    position: absolute;top: 500px; left: 700px;
+}
+.bee{
+    background-color: #ffffff;
+    padding: 5px;
+    width: 300px;
+    height: 20px;
+   
+  }
+  .sun{
+    width: 75px;
+    display:inline-block;
+    color: red;
+  }
+  .poll {
+    padding: 1.5rem;
+    width: 101%;
+    margin: auto;
+    height: 3px;
+    color: red;
+}
+.answer {
+    padding: 0 10px 0 5px;
+}
+.table{
+    text-align: center;
+}
+.water{
+    color: #ff0000;
+}
+.box{
+    color: black;
+}
+.button1{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top:350px; left: 250px;
+}
+.button2{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 350px; left: 530px;
+}
+.button3{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 350px; left: 810px;
+}
+.button4{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 190px; left: 30px;
+}
+.button5{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 250px; left: 30px;
+}
+.button6{
+    cursor: pointer;
+    padding: 10px 30px;
+    height: 50px;
+    width: 250px;
+    color: #ffff;
+    background: #3b9b4bef;
+    border: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,82) ;
+    margin: 10px;
+    position: absolute;top: 310px; left: 30px;
+}
+.ha1{
+    position: absolute;top: 420px; left: 350px;
+}
+.ha2{
+    position: absolute;top: 420px; left: 610px;
+}
+.ha3{
+    position: absolute;top: 420px; left: 890px;
+}
+.ha4{
+    position: absolute;top: 210px; left: 320px;
+}
+.ha5{
+    position: absolute;top: 265px; left: 320px;
+}
+.ha6{
+    position: absolute;top: 325px; left: 320px;
+}
+.link{
+    position: absolute;top: 100px;left:140px ;
+}

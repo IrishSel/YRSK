@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <title>Регистрация</title>
+</head>
+<body>
+    <div class="foundation">
+        <h1>Регистрация</h1>
+        <p>Пожалуйста заполните данные, чтобы создать учетную запись</p>
+        <div class="userdata">
+            <p>
+                <label class="sun" for="name"><b>Имя пользователя</b></label>
+                <input class="bee" type="text" placeholder="Введите имя пользователя" name="name" required>
+            </p>
+            <p>
+                <label class="sun" for="email"><b>Почта</b></label>
+                <input class="bee" type="text" placeholder="Введите почту" name="email" required>
+            </p>
+            <p>
+                <label class="sun" for="psw"><b>Пароль</b></label>
+                <input class="bee" type="password" placeholder="Введите пароль" name="psw" required>
+            </p>
+            <p>
+                <label class="sun" for="psw-repeat"><b>Повторите пароль</b></label>
+                <input class="bee" type="password" placeholder="Повторите пароль" name="psw-repeat" required>
+            </p>
+        </div>
+        <label>
+            <p class="star">
+                <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Запомнить меня
+            </p>
+        </label>
+        <label>
+            <p class="star">
+                <input type="checkbox" checked="checked" name="conditions" style="margin-bottom:15px"> Я прочитал и согласен с <a href="#">Правилами сайта</a> и <a href="#">Пользовательским соглашением.</a>
+            </p>
+        </label>
+        <div>
+            <button href="button1" class="button">Отмена</button>
+            <button href="button2" class="button">Зарегистрироваться</button>
+        </div>
+    </div>
+</body>
+</html>

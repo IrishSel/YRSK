@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <title>Опрос</title>
+</head>
+<body>
+    <div class="foundation">
+        <h1 class="sun">Опрос студентов</h1>
+        <form>
+            <fieldset>
+                <div class="poll">
+                    <legend>Вы студент 1 курса?</legend>
+                    <div class="checkboxes">
+                        <input type="radio" name="answer1" value="a1"><span class="answer">Да</span>
+                        <input type="radio" name="answer1" value="a2"><span class="answer">Нет</span>
+                    </div>
+                </div>
+            </fieldset>
+            <hr class="line">
+            <fieldset>
+                <div class="poll">
+                    <legend>Нравится ли вам обучение на факультете бизнес-коммуникаций и информатики?</legend>
+                    <div class="checkboxes">
+                        <input type="radio" name="answer2" value="a1"><span class="answer">Да</span>
+                        <input type="radio" name="answer2" value="a2"><span class="answer">Нет</span>
+                        <input type="radio" name="answer2" value="a3"><span class="answer">Не уверен</span>
+                    </div>
+                </div>
+            </fieldset>
+            <hr class="line">
+            <fieldset>
+                <div class="poll">
+                    <legend>Удобно ли вам учиться в формате дистанционного обучения?<span class="hint"></legend>
+                    <input type="radio" name="answer3" value="a1"><span class="answer">Да</span>
+                    <input type="radio" name="answer3" value="a2"><span class="answer">Нет</span>
+                </div>
+            </fieldset>
+            <hr class="line">
+            <fieldset>
+                <div class="poll">
+                    <legend>Нравятся ли вам мероприятия университета?<span class="hint"></legend>
+                    <input type="radio" name="answer4" value="a1"><span class="answer">Да</span>
+                    <input type="radio" name="answer4" value="a2"><span class="answer">Нет</span>
+                    <input type="radio" name="answer4" value="a3"><span class="answer">Не участвовал(a)</span>
+                </div>
+            </fieldset>
+            <hr class="line">
+            <fieldset>
+                <div class="poll">
+                    <legend>Ваш любимый предмет на 1 курсе?</legend>
+                    <ul>
+                        <li><input type="radio" name="answer5" value="a1"><span class="answer">Информатика</span></li>
+                        <li><input type="radio" name="answer5" value="a2"><span class="answer">Программирование</span></li>
+                        <li><input type="radio" name="answer5" value="a3"><span class="answer">ЯРСК</span></li>
+                        <li><input type="text" placeholder="Свой вариант" class="intext"></span></li>
+                    </ul>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>

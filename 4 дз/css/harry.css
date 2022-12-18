@@ -1,0 +1,17 @@
+body {
+        min-height: 100vh;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        background: rgb(255,0,0);
+        background: linear-gradient(0deg, rgba(255, 0, 0, 0.856) 0%, rgba(140, 131, 131, 0.815) 100%);
+}
+.fig {
+    text-align: center: ;
+    color: #00 ;
+    }
+    .info {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }

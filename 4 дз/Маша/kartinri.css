@@ -1,0 +1,20 @@
+body {
+background-color: #1D7373;
+}
+table {
+width: 300px;
+border: 10px double #5CCCCC;
+    margin: auto; 
+   }
+caption {
+font-family: "PT Sans","arial", serif;
+font-size: 40px;
+font-style: italic;
+}
+th, td {
+border: 2px solid #5CCCCC;
+font-family: "PT Sans","arial", serif;
+font-size: 20px;
+padding: 20px;
+font-style: italic;
+}
